@@ -1,5 +1,11 @@
 # 💫 About Me:
 <!-- 🔭 I’m currently working on Nothing :)<br>👯 I’m looking to collaborate on Anything :)<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact -->
+🔭 I’m currently working on building a time machine to fix all those bugs from yesterday.<br>
+👯 I’m looking to collaborate on creating an AI that can order pizza for developers when they're in the coding zone.<br>
+🤝 I’m looking for help with deciphering cryptic error messages that seem to come straight from the Matrix.<br>
+🌱 I’m currently learning how to speak binary so I can have meaningful conversations with my computer.<br>
+💬 Ask me about why my code works perfectly on my machine but not yours.<br>
+⚡ Fun fact: Did you know that the first computer mouse was made of wood? Yep, no "click" sound, just a good ol' squeak!<br>
 
 
 ## 🌐 Socials:
